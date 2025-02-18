@@ -16,3 +16,5 @@
 2025-02-18 08:42:36,801 : WARNING : pytest_pyfunc_call : its a warning
 2025-02-18 08:42:36,802 : ERROR : pytest_pyfunc_call : A major error has occurred
 2025-02-18 08:42:36,802 : CRITICAL : pytest_pyfunc_call : Critical issue
+2025-02-18 09:20:44,787 : INFO : test_editprofile : apple
+2025-02-18 09:20:44,787 : INFO : test_editprofile : banana

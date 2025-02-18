@@ -8,7 +8,7 @@ def setup():
     print("prints last")
 
 
-@pytest.fixture(name="dataload")
+@pytest.fixture
 def dataload():
     print("data driven fixture")
     return ["apple","banana", "fruits.com"]
