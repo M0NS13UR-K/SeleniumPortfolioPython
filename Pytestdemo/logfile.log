@@ -1,0 +1,18 @@
+2025-02-18 07:43:42,922 : INFO : Pytestdemo.test_logger : information statement
+2025-02-18 07:43:42,922 : WARNING : Pytestdemo.test_logger : its a warning
+2025-02-18 07:43:42,922 : ERROR : Pytestdemo.test_logger : A major error has occurred
+2025-02-18 07:43:42,922 : CRITICAL : Pytestdemo.test_logger : Critical issue
+2025-02-18 08:40:22,578 : INFO : test_editprofile : apple
+2025-02-18 08:40:22,578 : INFO : test_editprofile : banana
+2025-02-18 08:42:07,852 : INFO : test_editprofile : apple
+2025-02-18 08:42:07,852 : INFO : test_editprofile : banana
+2025-02-18 08:42:07,854 : INFO : pytest_pyfunc_call : information statement
+2025-02-18 08:42:07,854 : WARNING : pytest_pyfunc_call : its a warning
+2025-02-18 08:42:07,854 : ERROR : pytest_pyfunc_call : A major error has occurred
+2025-02-18 08:42:07,854 : CRITICAL : pytest_pyfunc_call : Critical issue
+2025-02-18 08:42:36,799 : INFO : test_editprofile : apple
+2025-02-18 08:42:36,799 : INFO : test_editprofile : banana
+2025-02-18 08:42:36,801 : INFO : pytest_pyfunc_call : information statement
+2025-02-18 08:42:36,801 : WARNING : pytest_pyfunc_call : its a warning
+2025-02-18 08:42:36,802 : ERROR : pytest_pyfunc_call : A major error has occurred
+2025-02-18 08:42:36,802 : CRITICAL : pytest_pyfunc_call : Critical issue
